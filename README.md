@@ -13,6 +13,6 @@ Harmony 7! The customization pack with Windows 7 stuff!
 - Sounds: A sound scheme automatically added to the Sounds settings when installed.
 - Wallpaper: Automatically sets the wallpaper to Harmony. (the default Windows 7 wallpaper)
 - Recycle Bin icons: Changes the icons of the Recycle Bin to the Windows 7 one
-**NOTE: You have to refresh the desktop (click any part of your desktop then press F5) for the icon to update between empty and full. (This will most likely be fixed in a future version.)
+**NOTE: You have to refresh the desktop (click any part of your desktop then press F5) for the icon to update between empty and full. (This will most likely be fixed in a future version.)**
 
 App by supercuquichio
